@@ -10,5 +10,8 @@ menuItems:
   - label: past meetups
     linkType: internal
     linkURL: /meetups
+  - label: Tac
+    linkType: internal
+    linkURL: /tac
 ---
 
